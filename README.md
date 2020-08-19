@@ -27,6 +27,8 @@ React Native, Swift, Kotlin
 
 I am a problem solver more than a "programmer". I like solving everyday problems with code and I don't let a lack of knowledge in one programming language / technology stop me. I learn on my feet, make adjustments, and help people and businesses reach their goals and solve problems. 
 
+When I solve problems, I try to build a solution that is tested, reusable, and easy for other programmers to use, all the while meeting deadlines and communicating with my teammates. 
+
 If that sounds appealing to you, read on to get in touch with me. 
 
 ___I am currently looking for employment opportunities to take my career to the next level.___
