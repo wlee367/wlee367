@@ -14,11 +14,14 @@ My name is Jason, I'm a full stack developer living in Ontario, Canada.
 
 ## Programming Languages and Tools I work with outside of work
 
-:computer: Frontend Development: HTML, CSS, SASS, JavaScript (EcmaScript 2016+), React.JS, Redux.JS (Thunk, Sagas), TypeScript, NestJS, and NodeJS.
+##### :computer: Frontend Development:
+HTML, CSS, SASS, JavaScript (EcmaScript 2016+), React.JS, Next.JS, After.JS, Redux.JS (Thunk, Sagas), Styled Components, TypeScript, NestJS, and NodeJS.
 
-:wrench: Backend Development: Java, Python, Laravel (PHP 7+ :fire: OOP), GraphQL, MongoDB, MySql, and PostgresSql. 
+##### :wrench: Backend Development:
+Java, Python, Laravel (PHP 7+ :fire: OOP), GraphQL, MongoDB, MySql, and PostgresSql. 
 
-:iphone: Mobile Development: React Native, Swift, Kotlin
+##### :iphone: Mobile Development:
+React Native, Swift, Kotlin
 
 ###### That was a lot of languages and tools I just listed. 
 
