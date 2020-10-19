@@ -31,8 +31,6 @@ When I solve problems, I try to build a solution that is tested, reusable, and e
 
 If that sounds appealing to you, read on to get in touch with me. 
 
-___I am currently looking for employment opportunities to take my career to the next level.___
-
 ## Where can you find me?
 
 Check out my [portfolio](https://jasonwrlee.me).
