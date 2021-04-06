@@ -2,7 +2,7 @@
 
 My name is Jason, I'm a full stack developer living in Ontario, Canada. 
 
-🔭 I’m currently working with a [venture studio](http://www.eighty8.co) in London, Ontario partnering with startups and building out tech products for them primarily using React, Sass, Laravel, Doctrine, Docker, and MySql. 
+🔭 I’m currently working with a [consulting firm](https://www2.deloitte.com/ca/en.html) in Toronto, Ontario as a software developer working with the Azure ecosystem and C#, .Net Core framework. 
 
 🌱 I’m currently learning TypeScript and mobile app development with React Native, Swift / Objective C and Kotlin.
 
