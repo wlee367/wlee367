@@ -1,12 +1,10 @@
 ### Hi there 👋 
 
-My name is Jason, I'm a full stack developer living in Ontario, Canada. 
+My name is Jason, I'm a SDE living in British Columbia, Canada. 
 
-🔭 I’m currently working with a [consulting firm](https://www2.deloitte.com/ca/en.html) in Toronto, Ontario as a software developer working with the Azure ecosystem and C#, .Net Core framework. 
+🔭 I’m currently working at AWS in Vancouver, B.C. as a software development engineer working with Java, Kotlin, TypeScript, and the AWS ecosystem (Lambda, DynamoDB, CloudWatch, EventBridge).
 
-🌱 I’m currently learning TypeScript and mobile app development with React Native, Swift / Objective C and Kotlin.
-
-💬 Ask me about React, Laravel, MySQL, and other knickknacks you want an answer to. 
+🌱 I’m currently learning Go, Rust and C.
 
 📫 How to reach me: You can reach me via [email](mailto:proto.rhee@gmail.com)
 
@@ -22,14 +20,6 @@ Java, Python,  NestJS, NodeJS, Laravel (PHP 7+), GraphQL, MongoDB, MySQL, and Po
 
 ##### :iphone: Mobile Development:
 React Native, Swift, Kotlin
-
-###### That was a lot of languages and tools I just listed. 
-
-I am a problem solver more than a "programmer". I like solving everyday problems with code. I learn on my feet, make adjustments, and help people and businesses reach their goals and build solutions. 
-
-When I solve problems, I try to build a solution that is tested, reusable, and easy for other programmers to use, all the while meeting deadlines and communicating with my teammates. 
-
-If that sounds appealing to you, read on to get in touch with me. 
 
 ## Where can you find me?
 
